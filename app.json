@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/ssCompetition/ssCompetition",
+    "pages/matchdata/matchdata",
+    "pages/specificCP/specificCP",
+    
+    "pages/hotgame/hotgame",
+    
+    "pages/wjReviews/wjReviews",
+    "pages/2018Reviews/2018Reviews",
+    
+    "pages/text2/text2",
+    
+    "pages/text/text",
+    
+    
+    
+    
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "weixin",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#eeeeee"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
